@@ -16,4 +16,3 @@ ViewModel <dt>
 LiveData <dt>
 Data Binding <dt>
 Kotlin Coroutines
-
